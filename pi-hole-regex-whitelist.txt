@@ -1,0 +1,6 @@
+(\.|^)facebook\.com$	
+(\.|^)reddit\.com$	
+(\.|^)netflix\.com$	
+(\.|^)klaviyo\.com$	
+(\.|^)gravatar\.com$	
+(\.|^)redcrossblood\.org\.au$	
